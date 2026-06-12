@@ -2,6 +2,9 @@ Physics Chatbot
 
 A simple AI-powered Physics Chatbot built with Python, Tkinter, and Sentence Transformers. The chatbot uses semantic similarity instead of traditional keyword matching, allowing it to understand different ways users might ask physics-related questions.
 
+<img width="629" height="789" alt="image" src="https://github.com/user-attachments/assets/7e8729ee-e1e2-4cd0-b974-17a21d0d2aa3" />
+
+
 Features
 Semantic question matching using Sentence Transformers
 User-friendly graphical interface with Tkinter
